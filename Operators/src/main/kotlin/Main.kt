@@ -1,20 +1,17 @@
 fun main(){
-    name()
+naming("Leila")
+}
 
+fun naming(name: String){
 
-
-    var sum = num1 + num2
-
-    println(sum)
-
+    println("Hello" + name)
 
 }
-    fun greeting(name: String){
 
-        println( "hello "+ name): Int}
-        var sum = num1+num2
 
-o
-     fun radius( :short, y: s)
+
+
+
+
 
 
